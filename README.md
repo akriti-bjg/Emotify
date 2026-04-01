@@ -1,7 +1,7 @@
 # Emotify
 A Music Recommendation System using Emotion Detection
 
-# Project Overview
+## Project Overview
 This project detects a user’s facial emotion using a **Swin Transformer** and recommends music based on that emotion.  
 It integrates:
 - Facial emotion detection
